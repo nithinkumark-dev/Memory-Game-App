@@ -36,15 +36,25 @@ Flip the cards, find the matching emoji pairs, and beat your best time and score
 memory-match-game/
 
 ├── index.html              # Main HTML file
+
 ├── style.css               # All CSS styles (flexbox, animations, colors)
+
 ├── script.js               # All game logic (JS + DOM + sounds)
+
 ├── sounds/                 # Folder containing sound effects (.wav)
+
 │   ├── flip.wav
+
 │   ├── match.wav
+
 │   └── wrong.wav
+
 ├── assets/                 # Optional folder for images, icons, or preview
+
 │   └── preview.png         # Screenshot of your game (used in README)
+
 ├── README.md               # Project description for GitHub
+
 └── .gitignore              # (Optional) Git ignore file if you're using Git
 
 ---
